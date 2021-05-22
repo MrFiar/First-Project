@@ -53,6 +53,7 @@ def menu_start():
                 key_test = '01/' + str(element_test)
                 values_test = random.randint(100, 103)
                 data_person[key_test] = values_test
+        print('Записано 10 тестовых значений, вы можете их увидеть если введёте 2')
         print()
         menu_start()
 
