@@ -1,8 +1,14 @@
 # First-Project
 for study
 
+Задача:
+Создать чат бот в телеграмме который будет записывать данные о весе, вести динамику и графически отображать результат. чат бот должен сам напоминать о небходимости взвеситься 
+
+
 Установить python 3.9.5    https://www.python.org/downloads/release/python-395/
 установить PyCharm Community   https://www.jetbrains.com/ru-ru/pycharm/download/#section=windows
+
+
 
 
 main.py пустой  
